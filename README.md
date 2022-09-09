@@ -13,6 +13,10 @@ I have more resources if you would like specific information for certain topics,
 these out as there are many resources and this is aimed at more of a general audience interested in
 getting into development, rather than specialist materials. I will however list some of the more engaging resources I come across.
 
+Repos and Personal contains links to some of my own repositories, this includes ready to use frameworks, templates, containers, and papers.
+
+I have only included the books which I believe to have been most useful in my journey as a developer. These are books I would consider essential for all engineers.
+
 <br />
 
 ___
@@ -24,21 +28,21 @@ ___
 3. [Frameworks](./chapters/3_frameworks.md)
 4. [Containerisation](./chapters/4_containerisation.md)
 5. [Languages](./chapters/5_languages.md)
-6. [Concepts]()
-7. [Debugging]()
-8. [Ethical Hacking]()
+6. [Concepts](./chapters/6_concepts.md)
+7. [Database](./chapters/7_database.md)
+8. [Repos & Personal](./chapters/8_repos.md)
 9. [Web Essentials](./chapters/9_webEssentials.md)
-10. [Servers & APIs]()
-11. [Game Development]()
-12. [Design]()
-13. [Artificial Intelligence]()
-14. [Robotics]()
-15. [Microservices]()
-16. [Linux]()
+10. [Servers & APIs](./chapters/10_servers_and_apis.md)
+11. [Game Development](./chapters/11_gameDevelopment.md)
+12. [Design, CSS & SASS](./chapters/12_design.md)
+13. [Artificial Intelligence](./chapters/13_ai.md)
+14. [Robotics](./chapters/14_robotics.md)
+15. [Microservices](./chapters/15_microservices.md)
+16. [Linux](./chapters/16_linux.md)
 17. [Git](./chapters/17_git.md)
-18. [Stacks]()
-19. [Testing]()
-20. [Books]()
+18. [Stacks](./chapters/18_stacks.md)
+19. [Testing](./chapters/19_testing.md)
+20. [Books](./chapters/20_books.md)
 
 ___
 

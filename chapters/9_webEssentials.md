@@ -2,6 +2,7 @@
 
 |  JavaScript | | |
 | --- | --- | --- |
+| <em>Course</em> | <em>Rating</em> |
 | [Frontend Masters: Hard Parts V2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) | **10** |
 | [Frontend Masters: New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/) | **10** |
 | [Frontend Masters: Hard Parts of Servers & Node](https://frontendmasters.com/courses/servers-node-js/) | **10** |
