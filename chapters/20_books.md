@@ -11,3 +11,5 @@
 - [Applying UML Patterns](https://www.amazon.co.uk/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062/ref=sr_1_3?crid=12WM6FNL4O96O&keywords=UML+Patterns&qid=1662756365&sprefix=uml+patterns%2Caps%2C80&sr=8-3)
 - [Think Like A Programmer](https://www.amazon.co.uk/Think-Like-Programmer-Introduction-Creative/dp/1593274246/ref=sr_1_1?keywords=think+like+a+programmer&qid=1662756411&sprefix=Think+like+a+progr%2Caps%2C79&sr=8-1)
 - [Test Driven Development](https://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530/ref=sr_1_1?keywords=test+driven+development&qid=1662756629&sprefix=test+driven%2Caps%2C121&sr=8-1)
+- [Functional JS](https://www.amazon.co.uk/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO/ref=sr_1_1?keywords=functional+javascript&qid=1662756671&sprefix=funtional+java%2Caps%2C79&sr=8-1)
+- [Fullstack React](https://www.amazon.co.uk/Fullstack-React-Complete-ReactJS-Friends/dp/0991344626/ref=sr_1_1?crid=3AR77H0P0DB7A&keywords=fullstack+react&qid=1662756700&sprefix=fullstack+react%2Caps%2C95&sr=8-1)
