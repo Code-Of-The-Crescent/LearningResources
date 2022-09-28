@@ -43,7 +43,7 @@ ___
 18. [Stacks](./chapters/18_stacks.md)
 19. [Testing](./chapters/19_testing.md)
 20. [Books](./chapters/20_books.md)
-21. [Tools](./chapters/)
+21. [Tools](./chapters/21_tools.md)
 
 ___
 
