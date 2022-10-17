@@ -5,6 +5,7 @@
 | [Ready To Use Docker Containers](https://github.com/PlanetDebug) |
 | [Intro To Kasm](https://github.com/Summoned-Skali/IntroductionToKasmDockerGUI) |
 | [Linux In Depth](https://github.com/Summoned-Skali/LinuxInDepth) |
+| [Understanding Node](https://github.com/Summoned-Skali/Understanding-Node) |
 | [References](https://github.com/Code-Of-The-Crescent/References) |
 | [Snippets](https://github.com/LukeMcCann/Syntax-Snippets) |
 | [Frameworks & Templates](https://github.com/Kodriboh) |
