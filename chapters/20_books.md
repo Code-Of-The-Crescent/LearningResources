@@ -13,3 +13,5 @@
 - [Test Driven Development](https://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530/ref=sr_1_1?keywords=test+driven+development&qid=1662756629&sprefix=test+driven%2Caps%2C121&sr=8-1)
 - [Functional JS](https://www.amazon.co.uk/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO/ref=sr_1_1?keywords=functional+javascript&qid=1662756671&sprefix=funtional+java%2Caps%2C79&sr=8-1)
 - [Fullstack React](https://www.amazon.co.uk/Fullstack-React-Complete-ReactJS-Friends/dp/0991344626/ref=sr_1_1?crid=3AR77H0P0DB7A&keywords=fullstack+react&qid=1662756700&sprefix=fullstack+react%2Caps%2C95&sr=8-1)
+- [Functional JavaScript](https://www.amazon.co.uk/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/ref=sr_1_1?crid=1P70Y8L6YPVGR&keywords=functional+javascript&qid=1666809575&qu=eyJxc2MiOiIzLjE5IiwicXNhIjoiMi42MSIsInFzcCI6IjIuMjUifQ%3D%3D&sprefix=functional+javascript%2Caps%2C94&sr=8-1)
+- [JavaScript The Good Parts](https://www.amazon.co.uk/gp/product/0596517742/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1)
