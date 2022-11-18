@@ -3,12 +3,12 @@
 | Assembly 6502 | | |
 | --- | --- | --- |
 | <em>Course</em> | <em>Rating</em> |
-| [Learn Assembly Making Games](https://www.udemy.com/course/programming-games-for-the-atari-2600/learn/lecture/13620070?start=0#content) | **9** |
+| [Udemy: Learn Assembly Making Games](https://www.udemy.com/course/programming-games-for-the-atari-2600/learn/lecture/13620070?start=0#content) | **9** |
 
 | Assembly x86 | | |
 | --- | --- | --- |
 | <em>Course</em> | <em>Rating</em> |
-| [Assembly x86](https://www.udemy.com/course/complete-x86-assembly-language-120-practical-exercise/learn/lecture/14750520?start=0#content) | **8** |
+| [Udemy: Assembly x86](https://www.udemy.com/course/complete-x86-assembly-language-120-practical-exercise/learn/lecture/14750520?start=0#content) | **8** |
 
 
 |  C++ | | |
