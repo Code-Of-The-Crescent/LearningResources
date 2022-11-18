@@ -28,6 +28,7 @@
 |  JavaScript | | |
 | --- | --- | --- |
 | <em>Course</em> | <em>Rating</em> |
+| [FrontendMasters; The good parts](https://frontendmasters.com/courses/good-parts-javascript-web/two-systems/) | **TBC** |
 | [Udemy: Understanding The Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237450?start=15#content) | **10** |
 | [Udemy: Modern JS Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17010340?start=0#content) | **8** |
 | [Udemy: JavaScript Complete Tutorial](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17010340?start=0#content) | **7** |
