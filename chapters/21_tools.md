@@ -27,7 +27,7 @@
 
 </details>
 
-<br /
+<br />
 
 <details open>
   <summary>CSS</summary>
