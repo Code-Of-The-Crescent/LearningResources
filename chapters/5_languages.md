@@ -5,17 +5,22 @@
 | <em>Course</em> | <em>Rating</em> |
 | [Udemy: Learn Assembly Making Games](https://www.udemy.com/course/programming-games-for-the-atari-2600/learn/lecture/13620070?start=0#content) | **9** |
 
+<br />
+
 | Assembly x86 | | |
 | --- | --- | --- |
 | <em>Course</em> | <em>Rating</em> |
 | [Udemy: Assembly x86](https://www.udemy.com/course/complete-x86-assembly-language-120-practical-exercise/learn/lecture/14750520?start=0#content) | **8** |
 
+<br />
 
 |  C++ | | |
 | --- | --- | --- |
 | <em>Course</em> | <em>Rating</em> |
 | [Udemy: C++ Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/learn/lecture/1348876?start=0#content) | **6** |
 | [Udemy: C++ Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535320?start=0#content) | **8** |
+
+<br />
 
 |  Java | | |
 | --- | --- | --- |
@@ -24,17 +29,20 @@
 | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/learn/lecture/107238?start=0#content) | **6** |
 | [Udemy: Java Basics](https://www.udemy.com/course/java-programming-basics/learn/lecture/3818282?start=0#content) | **6** |
 
+<br />
 
 |  JavaScript | | |
 | --- | --- | --- |
 | <em>Course</em> | <em>Rating</em> |
-| [FrontendMasters; The good parts](https://frontendmasters.com/courses/good-parts-javascript-web/two-systems/) | **TBC** |
+| [FrontendMasters; The good parts](https://frontendmasters.com/courses/good-parts-javascript-web/two-systems/) | 7 |
 | [Udemy: Understanding The Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237450?start=15#content) | **10** |
 | [Udemy: Modern JS Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17010340?start=0#content) | **8** |
 | [Udemy: JavaScript Complete Tutorial](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17010340?start=0#content) | **7** |
 | [Udemy: 20 JS Vanilla Projects](https://www.udemy.com/course/web-projects-with-vanilla-javascript/learn/lecture/17832668?start=0#content) | **4** |
 | [Udemy: JS Fundamentals](https://www.udemy.com/course/javascriptfundamentals/learn/lecture/6213836?start=0#content) | **5** |
 | [Udemy: JS Essentials](https://www.udemy.com/course/javascript-essentials/learn/lecture/7167618?start=0#content) | **4** |
+
+<br />
 
 |  PHP | | |
 | --- | --- | --- |
@@ -47,6 +55,7 @@
 | [Udemy: PHP Like A Pro](https://www.udemy.com/course/php-mvc-from-scratch/learn/lecture/4422896?start=0#content) | **10** |
 | [PHP CMS](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/learn/lecture/2307168?start=0#content) | **8** |
 
+<br />
 
 |  Python | | |
 | --- | --- | --- |
@@ -55,6 +64,8 @@
 | [Udemy: Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/20205526?start=0#content)| **6** |
 | [Udemy: Python Best parts](https://www.udemy.com/course/best-top-python-3-advanced-programming-basics-for-beginners/learn/lecture/8592680?start=0#content) | **7** |
 | [Udemy: Hands on With Python](https://www.udemy.com/course/python-programming-beginners/learn/lecture/6693338?start=0#content) | **7** |
+
+<br />
 
 |  Mixed Bootcamps | | |
 | --- | --- | --- |
