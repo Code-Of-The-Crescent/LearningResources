@@ -51,3 +51,8 @@ ___
 - [Laracasts](https://laracasts.com/)
 - [FrontendMasters](https://frontendmasters.com/)
 - [PluralSight](https://www.pluralsight.com/)
+
+___
+
+##### Recommended Articles
+  - [JavaScript Loading](https://flaviocopes.com/javascript-async-defer/)
