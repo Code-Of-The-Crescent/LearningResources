@@ -26,3 +26,15 @@
 | [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) | All Jetbrains IDEs |
 
 </details>
+
+<br /
+
+<details open>
+  <summary>CSS</summary>
+
+| Name | Description |
+| --- | --- |
+| [Color Name Finder](https://colors.artyclick.com/color-name-finder/) | Find colors or names of specific hex codes.  |
+
+</details>
+
