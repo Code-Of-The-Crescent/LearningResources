@@ -10,4 +10,7 @@
 | [Frontend Masters: Hard Parts Functional JS](https://frontendmasters.com/courses/functional-js-fundamentals/) | **10** |
 | [Vite & Testing Library](https://markus.oberlehner.net/blog/using-testing-library-jest-dom-with-vitest/) | **10** |
 | [Vite & React TypeScript](https://www.youtube.com/watch?v=cchqeWY0Nak) | **10** |
-| [OpenApi Specification](https://swagger.io/specification/) | **7** |
+| [OpenApi Specification Swagger](https://swagger.io/specification/) | **7** |
+| [OpenAPI Documentation](https://oai.github.io/Documentation/specification/structure.html) | **8** |
+| [OpenAPI Map](https://openapi-map.apihandyman.io/) | **10** |
+| [OpenApi Initiative](https://www.openapis.org/) | **8** |
